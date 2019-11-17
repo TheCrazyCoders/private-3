@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="vsc-bo">
+		<!-- <class>com.techsophy.vsc.entity.PassportType</class>
+		<class>com.techsophy.vsc.entity.CounterToken</class>
+		<class>com.techsophy.vsc.entity.DailyTokenConfig</class>
+		<class>com.techsophy.vsc.entity.FoTracker</class>
+		<class>com.techsophy.vsc.entity.PaymentDetail</class>
+		<class>com.techsophy.vsc.entity.Payment</class>
+		<class>com.techsophy.vsc.entity.Token</class>
+		<class>com.techsophy.vsc.entity.TokenAudit</class>
+		<class>com.techsophy.vsc.entity.TokenStatus</class>
+		<class>com.techsophy.vsc.entity.WorkingCounter</class> -->
+	</persistence-unit>
+</persistence>
